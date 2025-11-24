@@ -11,7 +11,7 @@ Interactive web application for visualizing recursive algorithm execution, built
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/recursion-visualizer.git
+git clone https://github.com/jmin1219/recursion-visualizer.git
 cd recursion-visualizer
 
 # Create virtual environment
@@ -49,8 +49,4 @@ recursion_visualizer/
 - **Graphviz** - Graph visualization
 - **Python 3.10+** - Core language
 
-## Demo
-[Add screenshot or video link here]
 
-## Author
-CS5002 Final Project - Fall 2025
