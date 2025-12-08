@@ -8,6 +8,11 @@ Interactive web application for visualizing recursive algorithm execution, built
 - **Call Tree Visualization**: See the recursion structure with Graphviz
 - **Educational Content**: Complexity analysis and algorithm insights
 
+## Video Demo
+[![Recursion Visualizer Demo](https://img.youtube.com/vi/_8Pm7Zqw6us/maxresdefault.jpg)](https://youtu.be/_8Pm7Zqw6us)
+*Click the image above to watch the demo video.*
+
+
 ## Installation
 ```bash
 # Clone repository
